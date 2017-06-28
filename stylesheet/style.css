@@ -3,7 +3,9 @@
 	margin:0px;
 }
 .h1class{
-	background-color: powderblue;
+	background-color: blue;
+	font-weight: bold;
+	text-align: center;
 }
 .h12{
 	background-color: white;
