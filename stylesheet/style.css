@@ -3,11 +3,13 @@
 	background-repeat: no-repeat;
 	background-size:1366px 662px;
 }
-.h1class{
+.divone{
 	background-color: powderblue;
 	font-weight: bold;
 	text-align: center;
 }
-.h12{
-	background-color: white;
+.divtwo{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
 }
