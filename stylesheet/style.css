@@ -1,6 +1,7 @@
 .bodyclass{
 	margin:0px;
 	background-repeat: no-repeat;
+	background-position: 100% 100%;
 }
 .h1class{
 	background-color: powderblue;
